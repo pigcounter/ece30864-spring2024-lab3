@@ -11,3 +11,8 @@ c) 1) Sprint Planning Meeting
     3) Sprint Retrospective Meeting:
         - Discuss work complete and move incomplete work to backlog
         - Meeting is used to close the sprint
+
+d)  Epic: Larger grouping that contains stories/tasks/bugs that are all related to each other in a project
+    Story: The "smallest unit" of work that needs to be done: usually tasks come from these stories.
+    Bug: An issue that has been found in the project that needs fixed.
+    Task: Something that needs to be completed for the project to progress.
