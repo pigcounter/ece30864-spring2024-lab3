@@ -1,1 +1,3 @@
 a) In a non-Agile project, the Project Manager is equivalent to the Product Owner. Product Owners are needed because they often provide funding for and are responsible for the oversight of the project as a whole. 
+
+b) Product Owners are resposible for managing product backlogs, prioritizing features, and collaborating with stakeholders and development teams. On the other hand, Scrum Masters are more focused with ensuring that the scrum is followed and facilitating work among a large scrum team.
